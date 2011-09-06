@@ -1,0 +1,3 @@
+h2. Bluetooth Ducky
+
+This project is an android app designed to talk to a USB Rubber Ducky via bluetooth and provide keystrokes to send to the target machine. 
